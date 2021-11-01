@@ -24,10 +24,11 @@ chrome.storage.sync.set({
     "sizes": [
         ""
     ],
-    "state": " •Ÿ‰ªŒ§",
+    "state": " ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
     "update_delay": "0",
     "working_codes": [
         "170064"
     ],
     "zip": "100-0001"
 },()=>{location.reload();});
+//ãƒ†ã‚¹ãƒˆ
